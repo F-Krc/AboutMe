@@ -9,7 +9,7 @@ body {
 }
 header {
   background-image: url(./img/banner.jpg);
-  height: 115px;
+  height: 120px;
   border-bottom: 4px solid black;
   padding: 10px;
   margin-bottom: 2rem;
@@ -52,7 +52,7 @@ h2 {
   display: flex;
   align-items: center;
   flex-direction: column;
-  min-height: 44rem;
+  min-height: 42rem;
 }
 footer {
    background-image: url(./img/banner.jpg);
