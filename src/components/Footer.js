@@ -1,7 +1,6 @@
-import React from "react";
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
-
 
 function Footer() {
   return (
@@ -19,4 +18,3 @@ function Footer() {
 }
 
 export default Footer;
-
