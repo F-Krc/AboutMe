@@ -50,10 +50,9 @@ h2 {
 .main {
   padding: 1rem 4rem;
   display: flex;
-  /* justify-content: center; */
   align-items: center;
   flex-direction: column;
-  min-height: 48rem;
+  min-height: 40rem;
 }
 footer {
    background-image: url(./img/banner.jpg);
@@ -114,15 +113,15 @@ footer {
   border-radius: 4px;
   cursor: pointer;
   margin-bottom: .5rem;
-
 }
 
 .button:hover {
   background-color: #45a049;
 }
+
 img {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 .profil-img{
   width: 300px;
