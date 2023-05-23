@@ -52,7 +52,7 @@ h2 {
   display: flex;
   align-items: center;
   flex-direction: column;
-  min-height: 40rem;
+  min-height: 43rem;
 }
 footer {
    background-image: url(./img/banner.jpg);
@@ -176,5 +176,12 @@ footer p, span{
   .form-container {
     width: 400px;
   }
+  .container{
+    flex-direction: column;
+  }
+  .profil-img{
+  width: 200px;
+  height: 300px;
+}
 }
 
