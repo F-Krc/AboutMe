@@ -7,7 +7,7 @@ function Footer() {
     <footer>
       <p>Copyright &copy; 2023. All Rights Reserved.</p>
       <div>
-       <span>Created by F-Krc</span>
+       <p>Created by F-Krc</p>
       <Link to="https://github.com/F-Krc" className="icon" target="_blank">
         <FaGithub />
       </Link>

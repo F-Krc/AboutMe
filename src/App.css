@@ -52,7 +52,7 @@ h2 {
   display: flex;
   align-items: center;
   flex-direction: column;
-  min-height: 47.8rem;
+  min-height: 43rem;
 }
 footer {
   background-image: url(./img/banner.jpg);
@@ -140,6 +140,7 @@ img {
   justify-content: center;
   padding-top: 2.5rem;
 }
+
 .content {
   padding-left: 1rem;
 }
@@ -168,8 +169,7 @@ img {
 .icon:hover {
   font-size: 2rem;
 }
-footer p,
-span {
+footer p{
   font-size: 1.2rem;
   padding-left: 5px;
 }
